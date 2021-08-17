@@ -46,7 +46,7 @@ units_and_const_speed = {"meter/second": (1, 'mps'),
                          "mile/hour": (0.44704, 'Mph')}
 
 display = Tk()
-display.title("testing")
+display.title("The Converter")
 display.geometry("595x300")
 # display.config(padx=40,pady=40)
 
